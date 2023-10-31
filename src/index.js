@@ -41,6 +41,6 @@ app.delete('/:id', async (req, res) => {
 })
 
 app.listen(port, () => {
-    mongoose.connect('mongodb+srv://K1Melo:LjhU13imsVd4qqZA@cluster0.knuxwc2.mongodb.net/?retryWrites=true&w=majority');
+    mongoose.connect('mongodb+srv://K1Melo:O79Rczal9ioDggLA@cluster0.cvfz8on.mongodb.net/?retryWrites=true&w=majority');
     console.log(`Example app listening on port ${port}`)
 })
