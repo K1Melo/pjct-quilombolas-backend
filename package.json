@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "backend of pjct quilombolas",
   "main": "index.js",
+  "engines": {
+    "node": "18"
+  },
   "scripts": {
     "dev": "node src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kaua Melo",
