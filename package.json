@@ -4,6 +4,7 @@
   "description": "backend of pjct quilombolas",
   "main": "index.js",
   "scripts": {
+    "dev": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kaua Melo",
